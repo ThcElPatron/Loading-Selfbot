@@ -1,0 +1,13 @@
+Il te faut simplement placer ton token à la ligne '10'
+
+(Bien sur si tu vois que le .bat ne fonctionne toujours pas après le token , npm install pour les moduls).
+
+Ensuite le préfix utiliser est '-' tu fais '-help' quand le selfbot
+est connecter pour voir tout les pannels et les commandes utilisable.
+
+Bien sur la source est libre, merci quand même d'avoir le respect de rien
+modifier ou du moins de prévenir ! 
+
+DISCORD = Anarchy#0265
+
+loading-selfbot2019.
